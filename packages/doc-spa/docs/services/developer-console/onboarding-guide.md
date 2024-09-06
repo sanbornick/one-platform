@@ -14,7 +14,7 @@ sidebar_label: Guides
    - You can define and configure how you want to use the service (this may differ from service to service)
    - Once you’ve set up the configurations, you are ready to use the services from your SPAs.
 4. For backend applications, you may need to create API keys for authenticated access to the Platform APIs
-   - To do that, click to the Project Settings on the left sidebar, then click on the API Keys tab on the top.
+   - To do that, click to the App Settings on the bottom of the left sidebar, then click on the API Keys tab on the top.
    - You can create an API Key here, with the appropriate access level permissions
    - Once the key is created, the key will be displayed in the UI. Copy this key, and treat it as a confidential password. You won’t be able to see the full key again after this.
    - Now your app can communicate with the Platform APIs securely!
